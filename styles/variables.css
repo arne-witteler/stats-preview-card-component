@@ -1,0 +1,14 @@
+:root {
+  --color-white: hsl(0, 0%, 100%);
+  --color-white-paragraph: hsla(0, 0%, 100%, 0.75);
+  --color-white-stat-headings: hsla(0, 0%, 100%, 0.6);
+
+  --color-navy: hsl(233, 47%, 7%);
+  --color-blue: hsl(244, 37%, 16%);
+  --color-purple: hsl(277,64%, 61%);
+
+  --font-family: 'Inter', sans-serif;
+  --font-family-alt: 'Lexend Deca', sans-serif;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+}
